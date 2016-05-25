@@ -12,12 +12,4 @@ image:
 
 Assalamualaikum,
 Saya Nadia Gustiana mahasiswi jurusan Sistem Informasi Fakultas Sains dan Teknologi, Universitas Islam Negeri Sultan Syarif Kasim Riau, angkatan 2013.
-
-## Cupidatat 90's lo-fi authentic try-hard
-
-
-## Forage occaecat cardigan qui
-
-
-## Hoodie Duis
-
+Saya berasal dari kota Rantauprapat, Kabupaten Labuhanbatu, Provinsi Sumatera Utara
