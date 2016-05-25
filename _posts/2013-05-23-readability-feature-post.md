@@ -13,5 +13,4 @@ image:
 Assalamualaikum,
 Saya Nadia Gustiana mahasiswi jurusan Sistem Informasi Fakultas Sains dan Teknologi, Universitas Islam Negeri Sultan Syarif Kasim Riau, angkatan 2013.
 Saya berasal dari kota Rantauprapat, Kabupaten Labuhanbatu, Provinsi Sumatera Utara
-`http://uin-suska.ac.id/`
 
