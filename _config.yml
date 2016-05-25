@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:            Ocu Kampar
+title:            Nadia Gustiana
 locale:           en_US
 #url:              http://localhost:4000
-url:              http://kampar.github.io
+url:              http://nadiagustiana.github.io
 
 
 # Jekyll configuration
@@ -27,23 +27,23 @@ kramdown:
 
 # Site owner
 owner:
-  name: Muhammad Jazman
+  name: Nadia Gustiana
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Love your self."
   email: 
   disqus-shortname: 
-  twitter: jazma101 #username
-  facebook: deactivate.py #username
+  twitter: naddgust #username
+  facebook: Nadia Gustiana #username
   google:
-    plus: kampar #username
+    plus: Nadia Gustiana #username
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: kampar #username
+  github: nadiagustiana #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: Nadia Gustiana #username
   instagram: #username
   lastfm: #username
   tumblr: #username
