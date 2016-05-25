@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Sample Link Post"
+title: "Jurusan Sistem Informasi"
 excerpt: "Example and code for using link posts."
 tags: [sample post, link post]
-link: http://mademistakes.com  
+link: http://sif.uin-suska.ac.id/
 share: true
 ---
 
