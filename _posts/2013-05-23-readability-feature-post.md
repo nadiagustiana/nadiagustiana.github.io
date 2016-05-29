@@ -5,11 +5,11 @@ excerpt: "Tentang Nadia Gustiana."
 tags: [sample post]
 comments: true
 image:
-  feature: sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack
+  feature: web2.jpg
+  credit: Nadia Gustiana
+  creditlink: http://nadiagustiana.github.io/
 ---
-<p>Assalamualaikum,</p>
+<p>Assalamualaikum</p>
 <p>Nama : Nadia Gustiana</p>
 <p>TTL : Rantauprapat, 24 Januari 1995</p>
 <p>Jurusan : <a href= "http://sif.uin-suska.ac.id/">Sistem Informasi</a></p>
