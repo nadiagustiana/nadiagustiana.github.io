@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About Me"
-excerpt: "Tentang Nadia Gustiana."
+excerpt: "Tentang Nadia Gustiana"
 tags: [sample post]
 comments: true
 image:
