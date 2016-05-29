@@ -10,7 +10,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack
 ---
 Assalamualaikum,
-Saya Nadia Gustiana mahasiswi jurusan Sistem Informasi Fakultas Sains dan Teknologi, Universitas Islam Negeri Sultan Syarif Kasim Riau, angkatan 2013.
+Saya Nadia Gustiana mahasiswi jurusan Sistem Informasi <a href=”http://sif.uin-suska.ac.id/ ”>Bisnis Online</a> Fakultas Sains dan Teknologi, Universitas Islam Negeri Sultan Syarif Kasim Riau, angkatan 2013.
 Saya berasal dari kota Rantauprapat, Kabupaten Labuhanbatu, Provinsi Sumatera Utara
 
 
