@@ -1,3 +1,9 @@
+# site image  
+image:
+  feature: web1.jpg
+  credit: Nadia Gustiana
+  creditlink: http://nadiagustiana.github.io/
+
 # Site wide configuration
 
 title:            Nadia Gustiana
@@ -23,12 +29,6 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   use_coderay: false
-
-# site image  
-image:
-  feature: web1.jpg
-  credit: Nadia Gustiana
-  creditlink: http://nadiagustiana.github.io/
 
 # Site owner
 owner:
