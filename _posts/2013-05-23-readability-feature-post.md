@@ -9,7 +9,7 @@ image:
   credit: Nadia Gustiana
   creditlink: http://nadiagustiana.github.io/
 ---
-<p>Assalamualaikum</p>
+<p>BIODATA</p>
 <p>Nama : Nadia Gustiana</p>
 <p>TTL : Rantauprapat, 24 Januari 1995</p>
 <p>Jurusan : <a href= "http://sif.uin-suska.ac.id/">Sistem Informasi</a></p>
