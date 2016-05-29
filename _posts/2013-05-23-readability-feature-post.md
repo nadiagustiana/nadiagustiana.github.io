@@ -9,7 +9,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack
 ---
-Assalamualaikum,
+<p>Assalamualaikum,</p>
 <p>Nama : Nadia Gustiana</p>
 <p>TTL : Rantauprapat, 24 Januari 1995</p>
 <p>Jurusan : <a href= "http://sif.uin-suska.ac.id/">Sistem Informasi</a></p>
